@@ -8,6 +8,8 @@
 </head>
 
 <body>
+
+<?php include_once('navbar.php'); ?>
     <h1>This is git demo</h1>
 </body>
 
